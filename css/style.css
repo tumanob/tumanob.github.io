@@ -398,10 +398,11 @@
 /*********************************************************************************/
 		
 		ul.iconstext li a { display: block;	height: 60px;}
+		ul.iconstext li { 	margin-bottom: 30px;}
 		
 		ul.iconstext li a img{ position: absolute;}
 		ul.iconstext li a span{display: block; margin-left: 70px; padding-top: 10px; font-size: 30px;}
-		
+	
 		
 /*********************************************************************************/
 /* Nav                                                                           */
